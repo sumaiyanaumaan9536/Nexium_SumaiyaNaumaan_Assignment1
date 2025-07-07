@@ -1,4 +1,4 @@
-
+[Click here to view the deployed app on Vercel](https://nexium-sumaiya-naumaan-assignment1-phi.vercel.app)
 # Nexium_SumaiyaNaumaan_Assignment1
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

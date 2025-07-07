@@ -83,7 +83,9 @@ export default function Home() {
           )}
 
           {results && results.length === 0 && (
-            <p className="text-center text-red-500 font-medium">No quotes found for "{topic.trim()}"</p>
+            <p className="text-center text-red-500 font-medium">
+  No quotes found for &quot;{topic.trim()}&quot;
+</p>
           )}
 
           {results && results.length > 0 && results.map((quote, index) => (
